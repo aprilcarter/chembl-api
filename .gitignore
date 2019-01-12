@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
+.ropeproject/
 get-pip.py
 process to neo4j.ipynb
 nohup.out
