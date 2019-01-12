@@ -1,6 +1,2 @@
-.ipynb_checkpoints/
-.ropeproject/
-get-pip.py
-process to neo4j.ipynb
-nohup.out
-nohup*
+compound_data.txt
+.ropeproject
