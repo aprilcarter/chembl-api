@@ -1,2 +1,7 @@
 compound_data.txt
 .ropeproject
+.ipynb_checkpoints/
+get-pip.py
+process to neo4j.ipynb
+nohup.out
+nohup*
